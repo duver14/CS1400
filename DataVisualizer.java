@@ -27,7 +27,7 @@ public class DataVisualizer {
         String columnOneHeader;
         String columnTwoHeader;
 
-        System.out.println("Enter a title for the data:");
+        System.out.println("Enter a title:");
         listTitle = scnr.nextLine();
         System.out.println("You entered: " + listTitle + "\n");
         
